@@ -1,22 +1,18 @@
-.. Final Project(Sphinx) documentation master file, created by
-   sphinx-quickstart on Thu Dec  1 11:31:19 2016.
+.. aws_iowa_site documentation master file, created by
+   sphinx-quickstart on Thu Dec  1 11:45:37 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Final Project(Sphinx)'s documentation!
-=================================================
+Places to see in the beautiful state of Iowa!
+=============================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   simpson.rst
+   apartment.rst
+   field.rst
+   wildlife.rst
+   swensonBBQ.rst

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Final Project(Sphinx) documentation build configuration file, created by
-# sphinx-quickstart on Thu Dec  1 11:31:19 2016.
+# Iowa Site documentation build configuration file, created by
+# sphinx-quickstart on Thu Dec  1 11:41:05 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -52,9 +52,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Final Project(Sphinx)'
-copyright = '2016, Kirk Wicks'
-author = 'Kirk Wicks'
+project = 'Iowa Site'
+copyright = '2016, Ryan Hovey'
+author = 'Ryan Hovey'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -123,7 +123,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'classic'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -137,7 +137,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = 'Final Project(Sphinx) v1'
+# html_title = 'Iowa Site v1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
@@ -237,7 +237,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'FinalProjectSphinxdoc'
+htmlhelp_basename = 'IowaSitedoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -263,8 +263,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'FinalProjectSphinx.tex', 'Final Project(Sphinx) Documentation',
-     'Kirk Wicks', 'manual'),
+    (master_doc, 'IowaSite.tex', 'Iowa Site Documentation',
+     'Ryan Hovey', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -305,7 +305,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'finalprojectsphinx', 'Final Project(Sphinx) Documentation',
+    (master_doc, 'iowasite', 'Iowa Site Documentation',
      [author], 1)
 ]
 
@@ -320,8 +320,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'FinalProjectSphinx', 'Final Project(Sphinx) Documentation',
-     author, 'FinalProjectSphinx', 'One line description of project.',
+    (master_doc, 'IowaSite', 'Iowa Site Documentation',
+     author, 'IowaSite', 'One line description of project.',
      'Miscellaneous'),
 ]
 
