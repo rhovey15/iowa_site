@@ -120,25 +120,19 @@ todo_include_todos = False
 
 # -- Options for HTML output ----------------------------------------------
 
-#import cloud
-import cloud_sptheme as csp
-
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-
-#set the html theme
-html_theme = "cloud"
+#
+html_theme = 'classic'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
- html_theme_options = { "roottarget": "index" }
+# html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-
-#set the theme path to poin to cloud's theme data
- html_theme_path = [csp.get_theme_dir()]
+# html_theme_path = []
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
