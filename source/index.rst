@@ -16,3 +16,4 @@ Contents:
    field.rst
    wildlife.rst
    swensonBBQ.rst
+   lenny.rst
