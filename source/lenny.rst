@@ -14,19 +14,19 @@ and of course, celebrate Legos.
 Not all is shiny and bright with Lenny however. No one knows where Lenny came from and may theories have risen about his origins. The logical is the most accepted believe; Lenny was put up by someone who enjoyed the toys, and wanted to share his enjoyment with the community.
 Theorists say this is not the case. On their website, “The Lenny Files” they document and share their conspiracies surrounding the proud plastic man.
 
- Upcomming Festivals and Activities in 2016-2017
- ------------------------------------------
+Upcomming Festivals and Activities in 2016-2017
+-----------------------------------------------
  
- ========= ==== 
- Festivals Date  
- ========= ====
- Christmas with Lenny 12-21
- -------------------- -----
- New Years Day 1-1
- --------- -------
- Give Love to Lenny 2-14
- ------------------ ----
- St. Lenny's Day 3-17
- --------------- ----
- Lenny and May Day 5-1
- ================= ===
+========= ==== 
+Festivals Date  
+========= ====
+Christmas with Lenny 12-21
+-------------------- -----
+New Years Day 1-1
+--------- -------
+Give Love to Lenny 2-14
+------------------ ----
+St. Lenny's Day 3-17
+--------------- ----
+Lenny and May Day 5-1
+================= ===
