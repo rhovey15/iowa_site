@@ -17,3 +17,5 @@ Contents:
    wildlife.rst
    swensonBBQ.rst
    lenny.rst
+   giantRock.rst
+   intersection.rst
