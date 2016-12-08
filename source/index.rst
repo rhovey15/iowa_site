@@ -6,7 +6,7 @@
 Places to see in the beautiful state of Iowa!
 =============================================
 
-Contents:
+**Contents:**
 
 .. toctree::
    :maxdepth: 2
