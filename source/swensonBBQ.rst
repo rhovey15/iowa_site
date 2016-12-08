@@ -3,6 +3,8 @@ Swenson BBQ
 ===========
 
 .. image:: swensonLogo.png
+   :height: 193px
+   :width: 422px
    
 Swenson BBQ is family owned business found in small town *Blankton, 
 Iowa*. At Swenson BBQ they pride themselves on honesty, 
