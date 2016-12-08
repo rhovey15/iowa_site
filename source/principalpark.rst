@@ -15,7 +15,10 @@ Bryant was an MVP for at the minor league level for the I-Cubs, while also earni
 Rookie of the Year last season and also acquiring National League MVP in his
 second year in the MLB. If you are looking for a place to go this summer instead
 of staying indoors trying to escape the heat, look no further than a trip to an
-Iowa Cubs baseball game.
+Iowa Cubs baseball game. Need more information about the I-Cubs? Click `here`
+to go to their official site and learn more about them.
+
+.. _here: http://www.milb.com/index.jsp?sid=t451
 
 Below you’ll find a rough estimate on how much a ticket for each game will
 normally be for any given game.
