@@ -17,17 +17,16 @@ Theorists say this is not the case. On their website, “The Lenny Files” they
 Upcomming Festivals and Activities in 2016-2017
 -----------------------------------------------
 
-========= ====
-Festivals Date  
-========= ====
-Column 1  Column 2
-Christmas with Lenny 12-21
--------------------- -----
-New Years Day 1-1
---------- -------
-Give Love to Lenny 2-14
------------------- ----
-St. Lenny's Day 3-17
---------------- ----
-Lenny and May Day 5-1
-================= ===
++----------------------+----------+
+| **Festivals**        | **Date** |
++======================+==========+
+| Christmas with Lenny | 12-21    |
++----------------------+----------+
+| New Years Day        | 1-1      |
++----------------------+----------+
+| Give Love to Lenny   | 2-14     |
++----------------------+----------+
+| St. Lenny's Day      | 3-17     |
++----------------------+----------+
+| Lenny and May Day    | 5-1      |
++----------------------+----------+
