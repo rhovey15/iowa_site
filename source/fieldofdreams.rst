@@ -1,6 +1,8 @@
 Field of Dreams
 ===============
 
+.. image:: Feild_of_Dreams.png
+
 One of the most iconic places to visit in Iowa is the Field of Dreams in quaint
 little town of Dyersville. Named after the movie that was filmed there,
 “Field of Dreams”, this baseball field will grab your attention right off the
