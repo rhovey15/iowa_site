@@ -1,4 +1,4 @@
-Trout Hathcery in Decorah, Iowa
+Trout Hatchery in Decorah, Iowa
 ================================
 
 .. image:: Trout_Fish.png
