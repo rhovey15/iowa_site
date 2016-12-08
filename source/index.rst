@@ -19,3 +19,7 @@ Contents:
    lenny.rst
    giantRock.rst
    intersection.rst
+   fieldofdreams.rst
+   principalpark.rst
+   trout.rst
+   mississippiriver.rst
