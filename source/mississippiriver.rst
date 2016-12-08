@@ -3,7 +3,7 @@ National Mississippi River Mueseum
 
 If you’re looking for a little bit of information on the past and the present
 wildlife in the Mississippi River, there is no better place to go than to travel
-to Dubuque, Iowa and see the National Mississippi River Museum. This museum is
+to *Dubuque, Iowa* and see the National Mississippi River Museum. This museum is
 located uniquely along the Mississippi River and has a vast arrangement of venues
 to look at. From wildlife exhibits displaying what kind of aquatic birds and
 different species of fish live in the river to a full scale original steamboat
