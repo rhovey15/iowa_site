@@ -19,3 +19,16 @@ Iowa Cubs baseball game.
 
 Below you’ll find a rough estimate on how much a ticket for each game will
 normally be for any given game.
+
+Tickets Prices
+---------------
+
+===================== ================ =========== ================
+Type of Baseball Game Age 2 or younger Age 3 to 15 Age 16 and Older
+===================== ================ =========== ================
+HighSchool Game            FREE           FREE         FREE
+--------------------- ---------------- ----------- ----------------
+State HighSchool Game      FREE           $6		   $8
+--------------------- ---------------- ----------- ----------------
+Iowa Cubs Game 			   FREE			  $8		   $10
+===================== ================ =========== ================
