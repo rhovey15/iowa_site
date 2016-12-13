@@ -12,7 +12,7 @@ The Town of Indianola
 
 The Balloon Museum is one of the great attractions of Iowa during the national balloon classic. It is here that hot air balloons from all over the country come to show off their hobby to those who share their hobby. You couldn't find a better place in  the entire state to bring your children for a family friendly day out!
 
-The Classic is held July 28th, to August 5 and consists of balloon rides, food and beverage vendors, and live music! Some 
+The Classic is held **July 28th**, to **August 5** and consists of balloon rides, food and beverage vendors, and live music! Some 
 
 **Bill Buxton Stadium** 
 
