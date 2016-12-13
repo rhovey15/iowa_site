@@ -12,9 +12,9 @@ Places to see in the beautiful state of Iowa!
    :maxdepth: 2
 
    simpson.rst
-   apartment.rst
-   field.rst
-   wildlife.rst
+   birthplace_of_braveheart.rst
+   the_pawnee_village_grounds.rst
+   the_iowa_international_wildlife_museum.rst
    swensonBBQ.rst
    lenny.rst
    giantRock.rst
