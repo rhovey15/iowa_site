@@ -3,7 +3,7 @@ The Iowa International Wildlife Museum
 
 +---------------+---------------+-------------------+
 |Hours          | Admission     |       Themes      |
-|               |               |(alternate Monthly)|
+|               |               |(Alternate Monthly)|
 +===============+===============+===================+
 |Monday- Friday |Adults - $10   |Midwest            |
 +---------------+---------------+-------------------+
